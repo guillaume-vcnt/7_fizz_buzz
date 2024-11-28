@@ -4,18 +4,18 @@
 
 const fizzbuzz = (nb) => {
     if (nb % 3 == 0 && nb % 5 == 0) {
-      return console.log(nb, "FizzBuzz")
+      return "FizzBuzz"
     }
     if (nb % 3 == 0) {
-      return console.log(nb, "Fizz")
+      return "Fizz"
     }
     if (nb % 5 == 0) {
-      return console.log(nb, "Buzz")
-    } else return console.log(nb)
+      return "Buzz"
+    } else return nb
   }
   
-  fizzbuzz(1)
-  fizzbuzz(3)
-  fizzbuzz(5)
-  fizzbuzz(15)
-  
+  console.log("1",fizzbuzz(1))
+  console.log("3",fizzbuzz(3))
+  console.log("5",fizzbuzz(5))
+  console.log("15",fizzbuzz(15))
+
