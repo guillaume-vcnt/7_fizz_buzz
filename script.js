@@ -1,6 +1,4 @@
-// FizzBuzz
-
-// 1 = number, 3 = fizz, 5 = buzz, 15 = fizzbuzz
+//fizz_buzz
 
 const fizzbuzz = (nb) => {
   if (nb % 3 == 0 && nb % 5 == 0) {
