@@ -1,4 +1,4 @@
-// FIZZ BUZZ
+// FizzBuzz
 
 // 1 = number, 3 = fizz, 5 = buzz, 15 = fizzbuzz
 
