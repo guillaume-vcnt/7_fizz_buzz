@@ -22,4 +22,4 @@ OS : Windows
 
 ## Utilisation
 
-S'exécute via la console 
+S'exécute via la console
