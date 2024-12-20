@@ -1,6 +1,6 @@
 Fizz Buzz
 
-## À propos 
+## À propos
 
 Vous devez construire une fonction fizzBuzz qui retourne un nombre ou une chaîne de caractère selon les règles suivantes :
 - Si le nombre est divisible par 3, on le remplace par “Fizz” ;
