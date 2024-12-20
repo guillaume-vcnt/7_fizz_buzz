@@ -1,4 +1,4 @@
-fizz_buzz
+Fizz Buzz
 
 ## À propos 
 
@@ -20,6 +20,6 @@ IDE : VSCode
 
 OS : Windows
 
-## Utilisation 
+## Utilisation
 
 S'exécute via la console 
